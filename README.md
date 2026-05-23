@@ -4,6 +4,7 @@ A bilingual Next.js 16 landing-page starter for service businesses, consultancie
 
 Ships with a neutral default and vertical-specific presets in [`examples/`](./examples) so you can be productive on day one.
 
+[![CI](https://github.com/kralmeid/landing-kit/actions/workflows/ci.yml/badge.svg)](https://github.com/kralmeid/landing-kit/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-black.svg)](./LICENSE)
 [![Next.js 16](https://img.shields.io/badge/Next.js-16-black.svg)](https://nextjs.org)
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fkralmeid%2Flanding-kit)
