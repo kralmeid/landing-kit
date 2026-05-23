@@ -1,0 +1,153 @@
+{
+  "common": {
+    "siteName": "Engineering Co.",
+    "errorTitle": "Something went wrong",
+    "errorBody": "Please try again, or reach us directly if the issue persists.",
+    "errorRetry": "Try again"
+  },
+  "nav": {
+    "services": "Services",
+    "about": "About",
+    "portfolio": "Case studies",
+    "contact": "Contact",
+    "skipToContent": "Skip to content"
+  },
+  "hero": {
+    "eyebrow": "Engineering consultancy",
+    "headline": "Engineering that scales with your business.",
+    "subhead": "Workflow automation, infrastructure security, and custom internal tools — built by senior engineers for established teams.",
+    "cta": "Start a project",
+    "supportLabel": "Senior engineers, on call",
+    "imageAlt": "Engineering workstation"
+  },
+  "services": {
+    "sectionEyebrow": "What we do",
+    "sectionHeadline": "Three engagements, one engineering team",
+    "custom": {
+      "title": "Workflow Automation",
+      "body": "Replace manual handoffs with reliable, observable workflows. We map the existing process, instrument it, and ship the smallest automation that pays for itself."
+    },
+    "remodel": {
+      "title": "Infrastructure Security",
+      "body": "Harden the stack you already have. Network segmentation, access reviews, backup and recovery drills, and incident-response runbooks tailored to your team."
+    },
+    "consult": {
+      "title": "Custom Internal Tools",
+      "body": "Build the missing tool — admin panels, integrations, reporting dashboards — that your off-the-shelf stack will never quite deliver."
+    }
+  },
+  "about": {
+    "sectionEyebrow": "About",
+    "sectionHeadline": "Senior engineers, focused on outcomes.",
+    "story": "We work with established businesses that have outgrown their tooling. Engagements are scoped tight, deliverables are measurable, and the work is documented well enough that your team can maintain it after we leave.",
+    "oversightLine": "Every engagement signs off on a written scope and exit plan.",
+    "relationshipLine": "Direct access to the engineer doing the work — no account managers in the middle.",
+    "portraitAlt": "Engineering team"
+  },
+  "trust": {
+    "sectionEyebrow": "How we work",
+    "sectionHeadline": "Standards and accountability",
+    "oversightLabel": "Scope",
+    "oversightValue": "Written, signed, exit-planned",
+    "relationshipLabel": "Access",
+    "relationshipValue": "Direct to the engineer",
+    "referencesLabel": "References",
+    "referencesValue": "Available on request"
+  },
+  "contact": {
+    "sectionEyebrow": "Start the conversation",
+    "sectionHeadline": "Tell us about the work",
+    "intro": "Every inquiry is answered by the team that would do the work. Share the context, scope, and timing — we reply within two business days.",
+    "labels": {
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone",
+      "projectType": "Project type",
+      "message": "Tell us about the work"
+    },
+    "placeholders": {
+      "name": "Your full name",
+      "email": "you@example.com",
+      "phone": "Optional",
+      "message": "Context, scope, timeline"
+    },
+    "projectTypeOptions": {
+      "placeholder": "Select a project type",
+      "customBuild": "Workflow automation",
+      "remodel": "Infrastructure security",
+      "consultation": "Custom internal tools",
+      "other": "Something else"
+    },
+    "submit": "Send inquiry",
+    "submitting": "Sending...",
+    "success": "Message received. We will be in touch within two business days.",
+    "error": "Something went wrong. Please try again or email us directly.",
+    "validation": {
+      "nameRequired": "Please enter your name",
+      "emailInvalid": "Please enter a valid email",
+      "projectTypeRequired": "Please select a project type",
+      "messageRequired": "Please describe the work"
+    }
+  },
+  "footer": {
+    "tagline": "Engineering that scales with your business.",
+    "contactHeadline": "Contact",
+    "emailLabel": "Email",
+    "emailValue": "hello@example.com",
+    "phoneLabel": "Phone",
+    "phoneValue": "+1 (000) 000-0000",
+    "socialHeadline": "Follow",
+    "copyright": "© 2026 Engineering Co. All rights reserved."
+  },
+  "portfolio": {
+    "sectionEyebrow": "Case studies",
+    "sectionHeadline": "Selected work",
+    "intro": "Replace these placeholders with screenshots, architecture diagrams, or before/after visuals.",
+    "built": {
+      "sectionEyebrow": "Recent work",
+      "sectionHeadline": "Engagements",
+      "intro": "A short caption that frames what the viewer is about to see.",
+      "videoLabel": "Walkthrough video",
+      "videoCaption": "Optional video caption."
+    },
+    "renders": {
+      "sectionEyebrow": "Process",
+      "sectionHeadline": "How we ship",
+      "intro": "Optional second gallery — process diagrams, architecture sketches, before/after.",
+      "projects": {
+        "1": { "label": "Phase 01", "alt": "Phase 01 placeholder" },
+        "2": { "label": "Phase 02", "alt": "Phase 02 placeholder" },
+        "3": { "label": "Phase 03", "alt": "Phase 03 placeholder" },
+        "4": { "label": "Phase 04", "alt": "Phase 04 placeholder" },
+        "5": { "label": "Phase 05", "alt": "Phase 05 placeholder" },
+        "6": { "label": "Phase 06", "alt": "Phase 06 placeholder" },
+        "7": { "label": "Phase 07", "alt": "Phase 07 placeholder" },
+        "8": { "label": "Phase 08", "alt": "Phase 08 placeholder" },
+        "9": { "label": "Phase 09", "alt": "Phase 09 placeholder" },
+        "10": { "label": "Phase 10", "alt": "Phase 10 placeholder" },
+        "11": { "label": "Phase 11", "alt": "Phase 11 placeholder" },
+        "12": { "label": "Phase 12", "alt": "Phase 12 placeholder" },
+        "13": { "label": "Phase 13", "alt": "Phase 13 placeholder" }
+      }
+    },
+    "lightbox": {
+      "close": "Close gallery",
+      "next": "Next case study",
+      "previous": "Previous case study",
+      "open": "Open"
+    },
+    "projects": {
+      "1": { "label": "Case study 01", "alt": "Case study 01 placeholder" },
+      "2": { "label": "Case study 02", "alt": "Case study 02 placeholder" },
+      "3": { "label": "Case study 03", "alt": "Case study 03 placeholder" },
+      "4": { "label": "Case study 04", "alt": "Case study 04 placeholder" },
+      "5": { "label": "Case study 05", "alt": "Case study 05 placeholder" },
+      "6": { "label": "Case study 06", "alt": "Case study 06 placeholder" },
+      "7": { "label": "Case study 07", "alt": "Case study 07 placeholder" },
+      "8": { "label": "Case study 08", "alt": "Case study 08 placeholder" },
+      "9": { "label": "Case study 09", "alt": "Case study 09 placeholder" },
+      "10": { "label": "Case study 10", "alt": "Case study 10 placeholder" },
+      "11": { "label": "Case study 11", "alt": "Case study 11 placeholder" }
+    }
+  }
+}

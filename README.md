@@ -1,6 +1,8 @@
 # Landing Kit
 
-A bilingual Next.js 16 landing-page starter — production-grade headers, accessible by default, and configured from a single file.
+A bilingual Next.js 16 landing-page starter for service businesses, consultancies, and agencies — production-grade headers, accessible by default, and configured from a single file.
+
+Ships with a neutral default and vertical-specific presets in [`examples/`](./examples) so you can be productive on day one.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-black.svg)](./LICENSE)
 [![Next.js 16](https://img.shields.io/badge/Next.js-16-black.svg)](https://nextjs.org)
@@ -58,6 +60,25 @@ The starter ships with 12 SVG placeholders so every image slot is visible on fir
 | Portfolio grid (×6) | `portfolio-0[1..6].svg` |
 
 When you switch to raster files, you can also swap the plain `<img>` tags inside `components/Hero.tsx`, `components/About.tsx`, `components/Header.tsx`, `components/Footer.tsx`, and `components/PortfolioLightbox.tsx` for `next/image` to get automatic optimization.
+
+## Examples
+
+The [`examples/`](./examples) folder contains preset configurations that adapt the kit to specific verticals. Each preset is a drop-in replacement for the root `site.config.ts` and `messages/{en,pt}.json` — no code changes required.
+
+| Preset | Use case |
+|---|---|
+| [`examples/engineering/`](./examples/engineering) | Engineering consultancies, technical services firms, B2B automation shops |
+
+Apply a preset from the repo root:
+
+```bash
+cp examples/engineering/site.config.ts site.config.ts
+cp examples/engineering/messages/en.json messages/en.json
+cp examples/engineering/messages/pt.json messages/pt.json
+pnpm dev
+```
+
+See [`examples/README.md`](./examples/README.md) for details and how to contribute a preset.
 
 ## Tech stack
 

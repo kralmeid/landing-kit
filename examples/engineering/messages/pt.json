@@ -1,0 +1,153 @@
+{
+  "common": {
+    "siteName": "Engineering Co.",
+    "errorTitle": "Algo deu errado",
+    "errorBody": "Tente novamente ou entre em contato diretamente se o problema persistir.",
+    "errorRetry": "Tentar novamente"
+  },
+  "nav": {
+    "services": "Serviços",
+    "about": "Sobre",
+    "portfolio": "Cases",
+    "contact": "Contato",
+    "skipToContent": "Pular para o conteúdo"
+  },
+  "hero": {
+    "eyebrow": "Consultoria de engenharia",
+    "headline": "Engenharia que cresce com o seu negócio.",
+    "subhead": "Automação de fluxos, segurança de infraestrutura e ferramentas internas sob medida — feitas por engenheiros sênior para times já estabelecidos.",
+    "cta": "Iniciar um projeto",
+    "supportLabel": "Engenheiros sênior, à disposição",
+    "imageAlt": "Estação de trabalho de engenharia"
+  },
+  "services": {
+    "sectionEyebrow": "O que fazemos",
+    "sectionHeadline": "Três frentes, um único time de engenharia",
+    "custom": {
+      "title": "Automação de Fluxos",
+      "body": "Substitua passagens manuais por fluxos confiáveis e observáveis. Mapeamos o processo atual, instrumentamos e entregamos a menor automação que se paga sozinha."
+    },
+    "remodel": {
+      "title": "Segurança de Infraestrutura",
+      "body": "Fortaleça a infraestrutura que você já tem. Segmentação de rede, revisões de acesso, simulações de backup e recuperação, e runbooks de resposta a incidentes feitos sob medida."
+    },
+    "consult": {
+      "title": "Ferramentas Internas Sob Medida",
+      "body": "Construa a ferramenta que falta — painéis admin, integrações, relatórios — que o stack de prateleira nunca vai entregar exatamente como você precisa."
+    }
+  },
+  "about": {
+    "sectionEyebrow": "Sobre",
+    "sectionHeadline": "Engenheiros sênior, focados em resultado.",
+    "story": "Trabalhamos com empresas estabelecidas que já cresceram além das suas ferramentas. Escopos são justos, entregas são mensuráveis, e o trabalho é documentado o suficiente para o seu time manter depois que sairmos.",
+    "oversightLine": "Cada projeto começa com escopo escrito e plano de saída.",
+    "relationshipLine": "Acesso direto ao engenheiro que faz o trabalho — sem intermediários.",
+    "portraitAlt": "Equipe de engenharia"
+  },
+  "trust": {
+    "sectionEyebrow": "Como trabalhamos",
+    "sectionHeadline": "Padrões e responsabilidade",
+    "oversightLabel": "Escopo",
+    "oversightValue": "Escrito, assinado, com plano de saída",
+    "relationshipLabel": "Acesso",
+    "relationshipValue": "Direto ao engenheiro",
+    "referencesLabel": "Referências",
+    "referencesValue": "Disponíveis sob solicitação"
+  },
+  "contact": {
+    "sectionEyebrow": "Comece a conversa",
+    "sectionHeadline": "Conte sobre o projeto",
+    "intro": "Toda mensagem é respondida pelo time que faria o trabalho. Compartilhe contexto, escopo e prazo — respondemos em até dois dias úteis.",
+    "labels": {
+      "name": "Nome",
+      "email": "Email",
+      "phone": "Telefone",
+      "projectType": "Tipo de projeto",
+      "message": "Conte sobre o projeto"
+    },
+    "placeholders": {
+      "name": "Seu nome completo",
+      "email": "voce@exemplo.com",
+      "phone": "Opcional",
+      "message": "Contexto, escopo, prazo"
+    },
+    "projectTypeOptions": {
+      "placeholder": "Selecione o tipo de projeto",
+      "customBuild": "Automação de fluxos",
+      "remodel": "Segurança de infraestrutura",
+      "consultation": "Ferramentas internas",
+      "other": "Outro"
+    },
+    "submit": "Enviar mensagem",
+    "submitting": "Enviando...",
+    "success": "Mensagem recebida. Responderemos em até dois dias úteis.",
+    "error": "Algo deu errado. Tente novamente ou envie um email diretamente.",
+    "validation": {
+      "nameRequired": "Informe seu nome",
+      "emailInvalid": "Informe um email válido",
+      "projectTypeRequired": "Selecione um tipo de projeto",
+      "messageRequired": "Descreva o projeto"
+    }
+  },
+  "footer": {
+    "tagline": "Engenharia que cresce com o seu negócio.",
+    "contactHeadline": "Contato",
+    "emailLabel": "Email",
+    "emailValue": "hello@example.com",
+    "phoneLabel": "Telefone",
+    "phoneValue": "+55 (00) 0000-0000",
+    "socialHeadline": "Siga",
+    "copyright": "© 2026 Engineering Co. Todos os direitos reservados."
+  },
+  "portfolio": {
+    "sectionEyebrow": "Cases",
+    "sectionHeadline": "Trabalhos selecionados",
+    "intro": "Substitua estes placeholders por capturas de tela, diagramas de arquitetura ou imagens antes/depois.",
+    "built": {
+      "sectionEyebrow": "Recente",
+      "sectionHeadline": "Engajamentos",
+      "intro": "Uma legenda curta para enquadrar o que o leitor vai ver.",
+      "videoLabel": "Vídeo de demonstração",
+      "videoCaption": "Legenda opcional."
+    },
+    "renders": {
+      "sectionEyebrow": "Processo",
+      "sectionHeadline": "Como entregamos",
+      "intro": "Galeria opcional — diagramas de processo, esboços de arquitetura, antes/depois.",
+      "projects": {
+        "1": { "label": "Fase 01", "alt": "Fase 01 placeholder" },
+        "2": { "label": "Fase 02", "alt": "Fase 02 placeholder" },
+        "3": { "label": "Fase 03", "alt": "Fase 03 placeholder" },
+        "4": { "label": "Fase 04", "alt": "Fase 04 placeholder" },
+        "5": { "label": "Fase 05", "alt": "Fase 05 placeholder" },
+        "6": { "label": "Fase 06", "alt": "Fase 06 placeholder" },
+        "7": { "label": "Fase 07", "alt": "Fase 07 placeholder" },
+        "8": { "label": "Fase 08", "alt": "Fase 08 placeholder" },
+        "9": { "label": "Fase 09", "alt": "Fase 09 placeholder" },
+        "10": { "label": "Fase 10", "alt": "Fase 10 placeholder" },
+        "11": { "label": "Fase 11", "alt": "Fase 11 placeholder" },
+        "12": { "label": "Fase 12", "alt": "Fase 12 placeholder" },
+        "13": { "label": "Fase 13", "alt": "Fase 13 placeholder" }
+      }
+    },
+    "lightbox": {
+      "close": "Fechar galeria",
+      "next": "Próximo case",
+      "previous": "Case anterior",
+      "open": "Abrir"
+    },
+    "projects": {
+      "1": { "label": "Case 01", "alt": "Case 01 placeholder" },
+      "2": { "label": "Case 02", "alt": "Case 02 placeholder" },
+      "3": { "label": "Case 03", "alt": "Case 03 placeholder" },
+      "4": { "label": "Case 04", "alt": "Case 04 placeholder" },
+      "5": { "label": "Case 05", "alt": "Case 05 placeholder" },
+      "6": { "label": "Case 06", "alt": "Case 06 placeholder" },
+      "7": { "label": "Case 07", "alt": "Case 07 placeholder" },
+      "8": { "label": "Case 08", "alt": "Case 08 placeholder" },
+      "9": { "label": "Case 09", "alt": "Case 09 placeholder" },
+      "10": { "label": "Case 10", "alt": "Case 10 placeholder" },
+      "11": { "label": "Case 11", "alt": "Case 11 placeholder" }
+    }
+  }
+}
