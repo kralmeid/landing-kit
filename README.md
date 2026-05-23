@@ -11,7 +11,9 @@ Ships with a neutral default and vertical-specific presets in [`examples/`](./ex
 
 ## Live demo
 
-No hosted demo is published yet. To preview the current starter locally:
+Live demo: <https://landing-kit-lovat.vercel.app>
+
+To preview the current starter locally:
 
 ```bash
 pnpm install
@@ -19,7 +21,7 @@ cp .env.example .env.local
 pnpm dev
 ```
 
-Open <http://localhost:3000/pt> or <http://localhost:3000/en>. When a public demo is deployed, set `NEXT_PUBLIC_SITE_URL` to that origin and update this section with the canonical URL.
+Open <http://localhost:3000/pt> or <http://localhost:3000/en>. In production, set `NEXT_PUBLIC_SITE_URL` to the canonical deployment origin.
 
 ## Quick start
 
