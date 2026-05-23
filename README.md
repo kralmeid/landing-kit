@@ -11,7 +11,15 @@ Ships with a neutral default and vertical-specific presets in [`examples/`](./ex
 
 ## Live demo
 
-Coming soon.
+No hosted demo is published yet. To preview the current starter locally:
+
+```bash
+pnpm install
+cp .env.example .env.local
+pnpm dev
+```
+
+Open <http://localhost:3000/pt> or <http://localhost:3000/en>. When a public demo is deployed, set `NEXT_PUBLIC_SITE_URL` to that origin and update this section with the canonical URL.
 
 ## Quick start
 
@@ -147,6 +155,21 @@ If Resend env vars are not set, swap the section for a plain `mailto:` link by d
 | `pnpm start` | Serve production build |
 | `pnpm lint` | ESLint via the Next config |
 | `pnpm typecheck` | TypeScript (no emit) |
+
+## Release checklist
+
+Before tagging or publishing a release:
+
+1. Run `pnpm lint`, `pnpm typecheck`, and `pnpm build`.
+2. Confirm `git status --short` has no generated files staged.
+3. Update the live demo URL above if a deployment exists.
+4. Add a dated entry to [`CHANGELOG.md`](./CHANGELOG.md).
+
+## Contributing and security
+
+- Contribution workflow: [`CONTRIBUTING.md`](./CONTRIBUTING.md)
+- Security policy: [`SECURITY.md`](./SECURITY.md)
+- Code of conduct: [`CODE_OF_CONDUCT.md`](./CODE_OF_CONDUCT.md)
 
 ## Environment variables
 
