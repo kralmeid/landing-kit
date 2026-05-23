@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  :focus-visible {
+    @apply outline outline-2 outline-offset-2 outline-current;
+  }
+
+  ::selection {
+    @apply bg-black text-white;
+  }
+
+  .on-black ::selection {
+    @apply bg-white text-black;
+  }
+
+  body {
+    @apply bg-white text-black font-sans antialiased;
+  }
+}

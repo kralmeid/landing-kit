@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Project 03 placeholder">
+  <rect width="800" height="600" fill="#3a3a3a"/>
+  <text x="400" y="300" text-anchor="middle" font-family="system-ui, sans-serif" font-size="160" font-weight="700" fill="#FFFFFF" letter-spacing="8">03</text>
+  <text x="400" y="360" text-anchor="middle" font-family="system-ui, sans-serif" font-size="22" fill="#FFFFFF" opacity="0.7" letter-spacing="4">800 x 600 placeholder</text>
+</svg>

@@ -1,0 +1,153 @@
+{
+  "common": {
+    "siteName": "Your Brand",
+    "errorTitle": "Something went wrong",
+    "errorBody": "Please try again, or contact us directly if the issue persists.",
+    "errorRetry": "Try again"
+  },
+  "nav": {
+    "services": "Services",
+    "about": "About",
+    "portfolio": "Work",
+    "contact": "Contact",
+    "skipToContent": "Skip to content"
+  },
+  "hero": {
+    "eyebrow": "Your tagline",
+    "headline": "A clear value proposition goes here.",
+    "subhead": "One or two sentences explaining what you do, for whom, and why it matters. Keep it concrete.",
+    "cta": "Get in touch",
+    "supportLabel": "Tagline",
+    "imageAlt": "Hero image placeholder"
+  },
+  "services": {
+    "sectionEyebrow": "What we offer",
+    "sectionHeadline": "Three ways we work with clients",
+    "custom": {
+      "title": "First Service",
+      "body": "Describe your first core service in one or two sentences. Focus on the outcome the client gets, not the process."
+    },
+    "remodel": {
+      "title": "Second Service",
+      "body": "Describe your second core service. Keep the tone consistent with the first and the third."
+    },
+    "consult": {
+      "title": "Third Service",
+      "body": "Describe your third core service. The set should read as a coherent menu, not a grab bag."
+    }
+  },
+  "about": {
+    "sectionEyebrow": "About",
+    "sectionHeadline": "A short, confident statement about who you are",
+    "story": "Replace this with two or three sentences about your background, your approach, and what makes the work distinctive. Keep it specific. Generic claims weaken the rest of the page.",
+    "oversightLine": "First proof point — short and concrete.",
+    "relationshipLine": "Second proof point — short and concrete.",
+    "portraitAlt": "Portrait or detail image placeholder"
+  },
+  "trust": {
+    "sectionEyebrow": "How we work",
+    "sectionHeadline": "Standards and accountability",
+    "oversightLabel": "Standard",
+    "oversightValue": "Short concrete claim",
+    "relationshipLabel": "Relationship",
+    "relationshipValue": "Short concrete claim",
+    "referencesLabel": "References",
+    "referencesValue": "Available on request"
+  },
+  "contact": {
+    "sectionEyebrow": "Start the conversation",
+    "sectionHeadline": "Tell us about your project",
+    "intro": "Every inquiry is answered personally. Share the context, scope, and timing — we reply within two business days.",
+    "labels": {
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone",
+      "projectType": "Project type",
+      "message": "Tell us about your project"
+    },
+    "placeholders": {
+      "name": "Your full name",
+      "email": "you@example.com",
+      "phone": "Optional",
+      "message": "Context, scope, timeline"
+    },
+    "projectTypeOptions": {
+      "placeholder": "Select a project type",
+      "customBuild": "First option",
+      "remodel": "Second option",
+      "consultation": "Third option",
+      "other": "Other"
+    },
+    "submit": "Send inquiry",
+    "submitting": "Sending...",
+    "success": "Message received. We'll be in touch personally within two business days.",
+    "error": "Something went wrong. Please try again or email us directly.",
+    "validation": {
+      "nameRequired": "Please enter your name",
+      "emailInvalid": "Please enter a valid email",
+      "projectTypeRequired": "Please select a project type",
+      "messageRequired": "Please describe your project"
+    }
+  },
+  "footer": {
+    "tagline": "A short line that captures what you do and for whom.",
+    "contactHeadline": "Contact",
+    "emailLabel": "Email",
+    "emailValue": "hello@yourbrand.com",
+    "phoneLabel": "Phone",
+    "phoneValue": "+1 (000) 000-0000",
+    "socialHeadline": "Follow",
+    "copyright": "© 2026 Your Brand. All rights reserved."
+  },
+  "portfolio": {
+    "sectionEyebrow": "Work",
+    "sectionHeadline": "Selected projects",
+    "intro": "Replace these placeholders with your own images in public/placeholders/ — keep the filenames or update site.config.ts.",
+    "built": {
+      "sectionEyebrow": "Recent work",
+      "sectionHeadline": "Project set",
+      "intro": "A short caption that frames what the viewer is about to see.",
+      "videoLabel": "Project video",
+      "videoCaption": "Optional video caption."
+    },
+    "renders": {
+      "sectionEyebrow": "Studies",
+      "sectionHeadline": "Process studies",
+      "intro": "An optional second gallery for a different kind of work.",
+      "projects": {
+        "1": { "label": "Study 01", "alt": "Study 01 placeholder" },
+        "2": { "label": "Study 02", "alt": "Study 02 placeholder" },
+        "3": { "label": "Study 03", "alt": "Study 03 placeholder" },
+        "4": { "label": "Study 04", "alt": "Study 04 placeholder" },
+        "5": { "label": "Study 05", "alt": "Study 05 placeholder" },
+        "6": { "label": "Study 06", "alt": "Study 06 placeholder" },
+        "7": { "label": "Study 07", "alt": "Study 07 placeholder" },
+        "8": { "label": "Study 08", "alt": "Study 08 placeholder" },
+        "9": { "label": "Study 09", "alt": "Study 09 placeholder" },
+        "10": { "label": "Study 10", "alt": "Study 10 placeholder" },
+        "11": { "label": "Study 11", "alt": "Study 11 placeholder" },
+        "12": { "label": "Study 12", "alt": "Study 12 placeholder" },
+        "13": { "label": "Study 13", "alt": "Study 13 placeholder" }
+      }
+    },
+    "lightbox": {
+      "close": "Close gallery",
+      "next": "Next project",
+      "previous": "Previous project",
+      "open": "Open"
+    },
+    "projects": {
+      "1": { "label": "Project 01", "alt": "Project 01 placeholder" },
+      "2": { "label": "Project 02", "alt": "Project 02 placeholder" },
+      "3": { "label": "Project 03", "alt": "Project 03 placeholder" },
+      "4": { "label": "Project 04", "alt": "Project 04 placeholder" },
+      "5": { "label": "Project 05", "alt": "Project 05 placeholder" },
+      "6": { "label": "Project 06", "alt": "Project 06 placeholder" },
+      "7": { "label": "Project 07", "alt": "Project 07 placeholder" },
+      "8": { "label": "Project 08", "alt": "Project 08 placeholder" },
+      "9": { "label": "Project 09", "alt": "Project 09 placeholder" },
+      "10": { "label": "Project 10", "alt": "Project 10 placeholder" },
+      "11": { "label": "Project 11", "alt": "Project 11 placeholder" }
+    }
+  }
+}

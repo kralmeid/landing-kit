@@ -1,0 +1,35 @@
+{
+  "name": "landing-kit",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Open-source bilingual landing-page starter built with Next.js 16, TypeScript, Tailwind, and next-intl.",
+  "author": "Kristopher Almeida",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "framer-motion": "^12.40.0",
+    "next": "16.2.6",
+    "next-intl": "^4.12.0",
+    "react": "19.2.6",
+    "react-dom": "19.2.6",
+    "resend": "^6.12.0",
+    "zod": "^4.4.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.2.15",
+    "@types/react-dom": "^19.2.3",
+    "autoprefixer": "^10.4.0",
+    "eslint": "^9.0.0",
+    "eslint-config-next": "16.2.6",
+    "postcss": "^8.5.0",
+    "tailwindcss": "3.4.19",
+    "typescript": "^5.9.0"
+  }
+}

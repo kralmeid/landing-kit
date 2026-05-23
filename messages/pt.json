@@ -1,0 +1,153 @@
+{
+  "common": {
+    "siteName": "Sua Marca",
+    "errorTitle": "Algo deu errado",
+    "errorBody": "Tente novamente ou nos escreva diretamente se o problema persistir.",
+    "errorRetry": "Tentar novamente"
+  },
+  "nav": {
+    "services": "Serviços",
+    "about": "Sobre",
+    "portfolio": "Trabalhos",
+    "contact": "Contato",
+    "skipToContent": "Pular para o conteúdo"
+  },
+  "hero": {
+    "eyebrow": "Seu slogan",
+    "headline": "Uma proposta de valor clara vai aqui.",
+    "subhead": "Uma ou duas frases explicando o que você faz, para quem e por que importa. Seja específico.",
+    "cta": "Entrar em contato",
+    "supportLabel": "Slogan",
+    "imageAlt": "Imagem principal — espaço reservado"
+  },
+  "services": {
+    "sectionEyebrow": "O que oferecemos",
+    "sectionHeadline": "Três formas de trabalhar com clientes",
+    "custom": {
+      "title": "Primeiro Serviço",
+      "body": "Descreva seu primeiro serviço em uma ou duas frases. Foque no resultado para o cliente, não no processo."
+    },
+    "remodel": {
+      "title": "Segundo Serviço",
+      "body": "Descreva seu segundo serviço. Mantenha o tom consistente com o primeiro e o terceiro."
+    },
+    "consult": {
+      "title": "Terceiro Serviço",
+      "body": "Descreva seu terceiro serviço. O conjunto deve parecer um menu coerente, não uma lista solta."
+    }
+  },
+  "about": {
+    "sectionEyebrow": "Sobre",
+    "sectionHeadline": "Uma declaração curta e segura sobre quem você é",
+    "story": "Substitua por duas ou três frases sobre sua trajetória, sua abordagem e o que torna o trabalho distinto. Seja específico. Afirmações genéricas enfraquecem o restante da página.",
+    "oversightLine": "Primeiro ponto — curto e concreto.",
+    "relationshipLine": "Segundo ponto — curto e concreto.",
+    "portraitAlt": "Retrato ou imagem de detalhe — espaço reservado"
+  },
+  "trust": {
+    "sectionEyebrow": "Como trabalhamos",
+    "sectionHeadline": "Padrão e prestação de contas",
+    "oversightLabel": "Padrão",
+    "oversightValue": "Afirmação curta e concreta",
+    "relationshipLabel": "Atendimento",
+    "relationshipValue": "Afirmação curta e concreta",
+    "referencesLabel": "Referências",
+    "referencesValue": "Disponíveis mediante solicitação"
+  },
+  "contact": {
+    "sectionEyebrow": "Vamos conversar",
+    "sectionHeadline": "Conte sobre seu projeto",
+    "intro": "Respondemos pessoalmente a cada contato. Descreva o contexto, o escopo e o prazo — retornamos em até dois dias úteis.",
+    "labels": {
+      "name": "Nome",
+      "email": "Email",
+      "phone": "Telefone",
+      "projectType": "Tipo de projeto",
+      "message": "Conte sobre seu projeto"
+    },
+    "placeholders": {
+      "name": "Seu nome completo",
+      "email": "voce@exemplo.com",
+      "phone": "Opcional",
+      "message": "Contexto, escopo e prazo previsto"
+    },
+    "projectTypeOptions": {
+      "placeholder": "Selecione o tipo de projeto",
+      "customBuild": "Primeira opção",
+      "remodel": "Segunda opção",
+      "consultation": "Terceira opção",
+      "other": "Outro"
+    },
+    "submit": "Enviar mensagem",
+    "submitting": "Enviando...",
+    "success": "Mensagem recebida. Retornamos pessoalmente em até dois dias úteis.",
+    "error": "Algo deu errado. Tente novamente ou nos escreva diretamente por email.",
+    "validation": {
+      "nameRequired": "Informe seu nome",
+      "emailInvalid": "Informe um email válido",
+      "projectTypeRequired": "Selecione o tipo de projeto",
+      "messageRequired": "Descreva seu projeto"
+    }
+  },
+  "footer": {
+    "tagline": "Uma frase curta que resume o que você faz e para quem.",
+    "contactHeadline": "Contato",
+    "emailLabel": "Email",
+    "emailValue": "ola@suamarca.com",
+    "phoneLabel": "Telefone",
+    "phoneValue": "+55 (00) 00000-0000",
+    "socialHeadline": "Acompanhe",
+    "copyright": "© 2026 Sua Marca. Todos os direitos reservados."
+  },
+  "portfolio": {
+    "sectionEyebrow": "Trabalhos",
+    "sectionHeadline": "Projetos selecionados",
+    "intro": "Substitua estes espaços reservados pelas suas imagens em public/placeholders/ — mantenha os nomes de arquivo ou atualize site.config.ts.",
+    "built": {
+      "sectionEyebrow": "Trabalhos recentes",
+      "sectionHeadline": "Conjunto de projeto",
+      "intro": "Uma legenda curta que enquadra o que o visitante está prestes a ver.",
+      "videoLabel": "Vídeo do projeto",
+      "videoCaption": "Legenda opcional do vídeo."
+    },
+    "renders": {
+      "sectionEyebrow": "Estudos",
+      "sectionHeadline": "Estudos de processo",
+      "intro": "Uma segunda galeria opcional para um tipo diferente de trabalho.",
+      "projects": {
+        "1": { "label": "Estudo 01", "alt": "Estudo 01 — espaço reservado" },
+        "2": { "label": "Estudo 02", "alt": "Estudo 02 — espaço reservado" },
+        "3": { "label": "Estudo 03", "alt": "Estudo 03 — espaço reservado" },
+        "4": { "label": "Estudo 04", "alt": "Estudo 04 — espaço reservado" },
+        "5": { "label": "Estudo 05", "alt": "Estudo 05 — espaço reservado" },
+        "6": { "label": "Estudo 06", "alt": "Estudo 06 — espaço reservado" },
+        "7": { "label": "Estudo 07", "alt": "Estudo 07 — espaço reservado" },
+        "8": { "label": "Estudo 08", "alt": "Estudo 08 — espaço reservado" },
+        "9": { "label": "Estudo 09", "alt": "Estudo 09 — espaço reservado" },
+        "10": { "label": "Estudo 10", "alt": "Estudo 10 — espaço reservado" },
+        "11": { "label": "Estudo 11", "alt": "Estudo 11 — espaço reservado" },
+        "12": { "label": "Estudo 12", "alt": "Estudo 12 — espaço reservado" },
+        "13": { "label": "Estudo 13", "alt": "Estudo 13 — espaço reservado" }
+      }
+    },
+    "lightbox": {
+      "close": "Fechar galeria",
+      "next": "Próximo projeto",
+      "previous": "Projeto anterior",
+      "open": "Abrir"
+    },
+    "projects": {
+      "1": { "label": "Projeto 01", "alt": "Projeto 01 — espaço reservado" },
+      "2": { "label": "Projeto 02", "alt": "Projeto 02 — espaço reservado" },
+      "3": { "label": "Projeto 03", "alt": "Projeto 03 — espaço reservado" },
+      "4": { "label": "Projeto 04", "alt": "Projeto 04 — espaço reservado" },
+      "5": { "label": "Projeto 05", "alt": "Projeto 05 — espaço reservado" },
+      "6": { "label": "Projeto 06", "alt": "Projeto 06 — espaço reservado" },
+      "7": { "label": "Projeto 07", "alt": "Projeto 07 — espaço reservado" },
+      "8": { "label": "Projeto 08", "alt": "Projeto 08 — espaço reservado" },
+      "9": { "label": "Projeto 09", "alt": "Projeto 09 — espaço reservado" },
+      "10": { "label": "Projeto 10", "alt": "Projeto 10 — espaço reservado" },
+      "11": { "label": "Projeto 11", "alt": "Projeto 11 — espaço reservado" }
+    }
+  }
+}
